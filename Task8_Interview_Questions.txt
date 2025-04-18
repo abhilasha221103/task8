@@ -1,0 +1,34 @@
+
+INTERVIEW QUESTIONS & ANSWERS – TASK 8
+
+1. What does a dashboard do?
+A dashboard visually presents key metrics and trends in a single view, allowing users to monitor performance, identify patterns, and make informed decisions quickly.
+
+2. How do you choose the right chart?
+The right chart depends on the type of data and the message you want to convey:
+- Line charts show trends over time.
+- Bar charts compare categories.
+- Donut/pie charts show proportions.
+Clarity and simplicity are key in selecting visuals.
+
+3. What is a slicer/filter?
+A slicer (in Power BI) or filter allows users to interact with the dashboard by narrowing down the data shown, such as viewing sales for a specific region or product category.
+
+4. Why do we use KPIs?
+KPIs (Key Performance Indicators) measure the success of specific business objectives. They help monitor progress and guide decision-making. Examples: monthly sales target, profit margin, etc.
+
+5. What did your dashboard show about sales?
+From the dashboard:
+- Sales increased gradually over the months.
+- The West region had the highest overall sales.
+- Technology was the best-performing category by sales volume.
+
+6. How do you make a dashboard look clean?
+- Use a consistent color palette.
+- Limit to 2–4 key visuals per page.
+- Use white space effectively.
+- Label axes and visuals clearly.
+- Avoid unnecessary clutter or decoration.
+
+7. Did you clean the data before starting?
+Yes. I ensured date formatting was consistent, and checked for missing values or outliers. In this case, the sample dataset was clean, but usually, basic cleaning with tools like Power Query or Python (Pandas) is essential before building a dashboard.
